@@ -79,7 +79,7 @@ Design screens visually → export clean Arduino code → flash to ESP32, ESP826
 - Buttons can “Go to Screen”
 - Generates logic-ready comments for touch input
 
----
+&nbsp;
 
 ## 🛠 Compatibility
 
@@ -89,7 +89,7 @@ Design screens visually → export clean Arduino code → flash to ESP32, ESP826
 | **U8g2**        | ✅ Full | Monochrome + full font system |
 | **Adafruit_GFX** | ⚠ Planned | Not implemented yet |
 
----
+&nbsp;
 
 ## 🤝 Contribute
 
